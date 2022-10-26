@@ -60,5 +60,5 @@ function calcula(){
         document.write("Mês " + m + " = " + res + "<br>");
     }    
     document.write("Resultado: "+res);
-}
+} 
 
